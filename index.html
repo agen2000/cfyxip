@@ -54,7 +54,8 @@
 		@media (hover: none) { .ad-button:hover, .copy-btn:hover, .open-btn:hover, .add-more-btn:hover { background: rgba(59, 130, 246, 0.15) !important; transform: none !important; box-shadow: none !important; color: var(--accent-blue) !important; } .ad-button:hover { color: #fff !important; } }
 		.ad-button{background:linear-gradient(135deg,#3b82f6 0%,#1d4ed8 100%);color:#fff;padding:12px 28px;border-radius:50px;text-decoration:none;font-weight:700;font-size:.95rem;box-shadow:0 4px 15px rgba(59,130,246,.4);transition:transform .2s,box-shadow .2s;display:inline-block}.ad-button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(59,130,246,.6)}
 		#customProxyInput::placeholder {color: #94a3b8 !important;opacity: 1;}
-		
+		.notice-mini-card { display: block; width: 100%; box-sizing: border-box; background-color: var(--card-bg); border: 1px solid var(--border-color); border-radius: 14px; padding: 10px 20px; font-size: 14px; color: var(--text-main); line-height: 1.6; word-break: break-all; white-space: normal; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-bottom: 15px; }
+		.notice-list { display: inline; color: var(--text-muted); } .notice-list span:not(:last-child)::after { content: "|"; color: var(--border-color); margin: 0 8px; }
 	</style>
 </head>
 <body id="bodyTop">
@@ -83,9 +84,21 @@
         <h1>Cloudflare EDT <span style="display: inline-block;">导航</span></h1>
 		<!-- <h1 style="font-size: 1.25rem; font-weight: bold; margin-top: -12px;"><a href="https://bestcf.pages.dev" style="color: inherit; text-decoration: none;">BestCF.pages.dev</a></h1> -->
 	</header>
-
-    <section id="kjrk">
-        <h2>快捷入口</h2>
+    <section id="kjrk">				
+        <h2>快捷入口</h2>			
+<div class="notice-mini-card">
+    <b style="color: var(--text-main); margin-right: 8px;">最近更新</b><span style="color: var(--border-color); margin: 0 8px;">|</span>
+    <div class="notice-list">
+        <span>每日混淆</span>
+        <span>ProxyIP合集</span>
+        <span>域名库</span>
+        <span>UUID生成器</span>
+        <span>Mia优选</span>
+        <span>WeTest优选</span>
+        <span>V2SSR优选</span>
+        <span>FOFA语法</span>
+    </div>
+</div>							
         <div class="group-card">
             <div class="item-header"><span class="item-title">Cloudflare 管理面板</span><span class="tag tag-featured">互联网大善人</span></div>
             <div class="item-desc">Workers和Pages / 域名托管 / 数据存储 / 安全防护等</div>
@@ -170,8 +183,7 @@
 				<a href="javascript:void(0);" onclick="downloadFile('https://autocf-workers.pages.dev/workers/3k/2.0.0/_worker.js')" class="open-btn">下载脚本</a>
 			</div>
 		</div>
-	</section>
-
+	</section>		
     <section id="edtfsb">
         <h2 class="breath">EDT 封神榜</h2>
         <div class="group-card">
