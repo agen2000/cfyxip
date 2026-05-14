@@ -44,12 +44,13 @@ livescore.co.kr:443#更多选择 | LiveScore
 csgo.com:443#更多选择 | CSGO
 virtualcommtraining.verizon.com:443#更多选择 | Verizon
 1password.com:443#更多选择 | 1Password
-paypal.com:443#更多选择 | PayPal
 loreal.com:443#更多选择 | 欧莱雅
 cloudflare.182682.xyz:443#更多选择 | WeTest
 bestcf.top:443#更多选择 | VPS789
-cloudflare.byoip.top:443#更多选择 | NB
 yd.hhhhh.eu.org:443#更多选择 | 移动WuYa
 lt.hhhhh.eu.org:443#更多选择 | 联通WuYa
 dx.hhhhh.eu.org:443#更多选择 | 电信WuYa
-bestcf.030101.xyz:443#▲ 精选域名 | 5-13 | 分享 BestCF.pages.dev
+cm.cloudflare.byoip.top:443#更多选择 | 移动Byoip
+cu.cloudflare.byoip.top:443#更多选择 | 联通Byoip
+ct.cloudflare.byoip.top:443#更多选择 | 电信Byoip
+bestcf.030101.xyz:443#▲ 精选域名 | 5-15 | BestCF.pages.dev
