@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ IRCF社区优选 | YouTube@真香定律
+saas.sin.fan:443#▼ IRCF优选 | 优选网BestCF.pages.dev
 ipv4.ircf.space:443#Universal IPv4 | ipv4.ircf.space
 cf.ircf.space:443#Universal CF | cf.ircf.space
 mci.ircf.space:443#MCI | mci.ircf.space
@@ -29,4 +29,4 @@ ipv6.ircf.space:443#Universal IPv6 | ipv6.ircf.space
 udp.ircf.space:443#Universal UDP | udp.ircf.space
 ts.ircf.space:443#Universal TS | ts.ircf.space
 mtn.ircf.space:443#Irancell | mtn.ircf.space
-bestcf.030101.xyz:443#▲ 优选网 bestcf.pages.dev
+bestcf.030101.xyz:443#▲ IRCF优选 | 优选网BestCF.pages.dev
