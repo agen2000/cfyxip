@@ -1,11 +1,10 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-17 08:13 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-17 08:43 | YouTube@真香定律
 www.sloomb.com:443#www.sloomb.com
 www.giannidelprete.it:443#www.giannidelprete.it
 cdn.2020111.xyz:443#cdn.2020111.xyz
 2.cf.3666888.xyz:443#2.cf.3666888.xyz
 cf.v8.longsays.com:443#cf.v8.longsays.com
 www.cdzxdz.com:443#www.cdzxdz.com
-cdn.204910.best:443#cdn.204910.best
 cloudflare.cnae.top:443#cloudflare.cnae.top
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
@@ -13,8 +12,10 @@ www.swowd.com:443#www.swowd.com
 cf.553314.xyz:443#cf.553314.xyz
 mskcc.org:443#mskcc.org
 www.mfyx.cn:443#www.mfyx.cn
+kniu.cc:443#kniu.cc
 cloudflare-ip.mofashi.ltd:443#cloudflare-ip.mofashi.ltd
 www.shopify.com:443#www.shopify.com
+cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
 cf.3666888.xyz:443#cf.3666888.xyz
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
@@ -33,6 +34,7 @@ api.gzcrtw.com:443#api.gzcrtw.com
 www.visa.cn:443#www.visa.cn
 cfsaas.080112.xyz:443#cfsaas.080112.xyz
 cf.godns.cc:443#cf.godns.cc
+www.mlkj888.com:443#www.mlkj888.com
 cdns.doon.eu.org:443#cdns.doon.eu.org
 dnew.cc:443#dnew.cc
 www.jimdo.com:443#www.jimdo.com
@@ -43,10 +45,8 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 www.nexusmods.com:443#www.nexusmods.com
 cnllm.com:443#cnllm.com
-www.mlkj888.com:443#www.mlkj888.com
 cdn.091224.xyz:443#cdn.091224.xyz
 cf.duun.eu.cc:443#cf.duun.eu.cc
 www.vastnovel.com:443#www.vastnovel.com
 fk.hshwk.org:443#fk.hshwk.org
-chrono24.com:443#chrono24.com
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
