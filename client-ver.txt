@@ -19,4 +19,4 @@ mihomo-party-org/clash-party|1.9.5
 vernesong/OpenClash|0.47.088
 xiaobaigroup/ClashBox|1.7.4
 yanue/v2rayu|4.2.8
-zero-peak/ZeroOmega|3.4.5
+zero-peak/ZeroOmega|3.5.0
