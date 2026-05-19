@@ -1,4 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-20 05:12 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-20 05:43 | YouTube@真香定律
 cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 cloudflare.468123.xyz:443#cloudflare.468123.xyz
@@ -7,6 +7,7 @@ cfvip.cf.3666888.xyz:443#cfvip.cf.3666888.xyz
 saas.sin.fan:443#saas.sin.fan
 www.mc.js.cool:443#www.mc.js.cool
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
+vip.cf.3666888.xyz:443#vip.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
 www.sage.com:443#www.sage.com
@@ -15,7 +16,6 @@ cnllm.com:443#cnllm.com
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.5199dy.com:443#www.5199dy.com
 cf.zhetengsha.eu.org:443#cf.zhetengsha.eu.org
-visa.com:443#visa.com
 www.epicgames.com:443#www.epicgames.com
 4.cf.3666888.xyz:443#4.cf.3666888.xyz
 www.visa.com:443#www.visa.com
