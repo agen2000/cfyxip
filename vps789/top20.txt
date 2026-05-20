@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-20 09:44 | YouTube@真香定律
-cloudflare.rainyfall.com:443#cloudflare.rainyfall.com
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-20 10:12 | YouTube@真香定律
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
 china-telecom.cname.cloudflare.468123.xyz:443#china-telecom.cname.cloudflare.468123.xyz
 www.5199dy.com:443#www.5199dy.com
@@ -13,9 +12,10 @@ visa.com:443#visa.com
 vps.cheng2001.top:443#vps.cheng2001.top
 www.mc.js.cool:443#www.mc.js.cool
 visa.com.tw:443#visa.com.tw
-cf.mubaiovo.top:443#cf.mubaiovo.top
-store.ubi.com:443#store.ubi.com
 tajikistan.mfa.gov.ua:443#tajikistan.mfa.gov.ua
+isp.254301.xyz:443#isp.254301.xyz
+cf.mubaiovo.top:443#cf.mubaiovo.top
+www.whoer.net:443#www.whoer.net
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 ct.721660.xyz:443#ct.721660.xyz
 cdn.31514926.xyz:443#cdn.31514926.xyz
