@@ -1,5 +1,4 @@
-saas.sin.fan:443#▼ 优选域名 TOP50 | 05-23 12:13 | YouTube@真香定律
-6.cf.3666888.xyz:443#6.cf.3666888.xyz
+saas.sin.fan:443#▼ 优选域名 TOP50 | 05-23 12:42 | YouTube@真香定律
 10.cf.3666888.xyz:443#10.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 cfip-ct.stoeaves.us.ci:443#cfip-ct.stoeaves.us.ci
@@ -10,25 +9,23 @@ www.giannidelprete.it:443#www.giannidelprete.it
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 cf.553314.xyz:443#cf.553314.xyz
 staticdelivery.nexusmods.com:443#staticdelivery.nexusmods.com
-www.xflash.vip:443#www.xflash.vip
-mskcc.org:443#mskcc.org
 www.sage.com:443#www.sage.com
 cf.998866.top:443#cf.998866.top
 www.mfyx.cn:443#www.mfyx.cn
 cf.cf.3666888.xyz:443#cf.cf.3666888.xyz
 baka.fun:443#baka.fun
+www.mc.js.cool:443#www.mc.js.cool
 7.cf.3666888.xyz:443#7.cf.3666888.xyz
 9.cf.3666888.xyz:443#9.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#yg11.ygkkk.dpdns.org
 www.cdzxdz.com:443#www.cdzxdz.com
 saas.sin.fan:443#saas.sin.fan
 cloudflare.idc.rocks:443#cloudflare.idc.rocks
-cdn.cf.3666888.xyz:443#cdn.cf.3666888.xyz
 123.cf.3666888.xyz:443#123.cf.3666888.xyz
 11.cf.3666888.xyz:443#11.cf.3666888.xyz
 www.swowd.com:443#www.swowd.com
-cf.v8.longsays.com:443#cf.v8.longsays.com
 openai.com:443#openai.com
+cfsaas.080112.xyz:443#cfsaas.080112.xyz
 store.ubi.com:443#store.ubi.com
 cf.mubaiovo.top:443#cf.mubaiovo.top
 test.509666.xyz:443#test.509666.xyz
@@ -36,7 +33,6 @@ yg5.ygkkk.dpdns.org:443#yg5.ygkkk.dpdns.org
 laitemi.com:443#laitemi.com
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cloudflare.182682.xyz:443#cloudflare.182682.xyz
-cdns.doon.eu.org:443#cdns.doon.eu.org
 www.shopify.com:443#www.shopify.com
 cdn.204910.best:443#cdn.204910.best
 www.fastsoso.cn:443#www.fastsoso.cn
@@ -47,6 +43,10 @@ sanwang.cf.3666888.xyz:443#sanwang.cf.3666888.xyz
 sg.cf.3666888.xyz:443#sg.cf.3666888.xyz
 youxuan.cf.636949.xyz:443#youxuan.cf.636949.xyz
 qocu.cf.3666888.xyz:443#qocu.cf.3666888.xyz
+6.cf.3666888.xyz:443#6.cf.3666888.xyz
 8.cf.3666888.xyz:443#8.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#yg9.ygkkk.dpdns.org
+api.gzcrtw.com:443#api.gzcrtw.com
+test2.509666.xyz:443#test2.509666.xyz
+cfip-avg.stoeaves.us.ci:443#cfip-avg.stoeaves.us.ci
 bestcf.030101.xyz:443#▲ 优选域名 | 分享免费优选网 BestCF.pages.dev | VPS789 7*24监测
