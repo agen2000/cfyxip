@@ -7,22 +7,21 @@ serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.nestle.com:443#企业域名 | 雀巢咖啡
 www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港机场
-glassdoor.com:443#企业域名 | Glassdoor
+openai.com:443#企业域名 | OpenAI
 bluehost.com:443#企业域名 | BlueHost
+glassdoor.com:443#企业域名 | Glassdoor
 www.visa.cn:443#更多选择 | VISA中国
 www.visa.com.hk:443#更多选择 | VISA香港
 usa.visa.com:443#更多选择 | VISA美国
 www.wto.org:443#更多选择 | WTO世贸
 w3.org:443#更多选择 | W3C万维
-www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
-openai.com:443#更多选择 | OpenAI
 investor.apple.com:443#更多选择 | Apple
 affirm.com:443#更多选择 | Affirm
+www.sage.com:443#更多选择 | Sage
 staticdelivery.nexusmods.com:443#更多选择 | NexusMods
 markmonitor.com:443#更多选择 | MarkMonitor
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
-livescore.co.kr:443#更多选择 | LiveScore
 www.zendesk.com:443#更多选择 | Zendesk
 anadoluefes.com:443#更多选择 | AnadoluEfes
 virtualcommtraining.verizon.com:443#更多选择 | Verizon
@@ -41,8 +40,6 @@ pages.dev:443#官方域名 | Pages
 cdnjs.com:443#官方域名 | CDNJS
 cloudflare-ech.com:443#官方域名 | ECH
 static.cloudflareinsights.com:443#官方域名 | Analytics
-162.159.198.1:8443#官方域名 | ZeroTrust
-162.159.197.1:8443#官方域名 | Gateway
 gateway.cloudflareaccess.com:443#官方域名 | ZeroTrust策略端点
 api.cloudflareclient.com.com:443#官方域名 | WARP API
 ln.edu.hk:443#教育域名 | 岭南大学
