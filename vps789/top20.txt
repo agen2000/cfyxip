@@ -1,6 +1,7 @@
-saas.sin.fan:443#▼ 优选域名 TOP20 | 05-27 17:41 | YouTube@真香定律
+saas.sin.fan:443#▼ 优选域名 TOP20 | 05-27 18:11 | YouTube@真香定律
 freeyx.cloudflare88.eu.org:443#freeyx.cloudflare88.eu.org
 cdn.204910.best:443#cdn.204910.best
+www.fastsoso.cn:443#www.fastsoso.cn
 hk.cf.3666888.xyz:443#hk.cf.3666888.xyz
 jp.cf.3666888.xyz:443#jp.cf.3666888.xyz
 d.lma.de5.net:443#d.lma.de5.net
@@ -8,7 +9,6 @@ yg1.ygkkk.dpdns.org:443#yg1.ygkkk.dpdns.org
 6.cf.3666888.xyz:443#6.cf.3666888.xyz
 www.epicgames.com:443#www.epicgames.com
 cdn.091224.xyz:443#cdn.091224.xyz
-01-qq.com:443#01-qq.com
 markmonitor.com:443#markmonitor.com
 www.6i5.com:443#www.6i5.com
 cf.godns.cc:443#cf.godns.cc
