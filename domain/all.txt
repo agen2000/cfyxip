@@ -33,7 +33,7 @@ loreal.com:443#更多选择 | 欧莱雅
 162.159.197.1:443#官方域名 | ZeroTrust
 engage.cloudflareclient.com:443#官方域名 | WireGuard
 gateway.cloudflareaccess.com:443#官方域名 | Gateway
-api.cloudflareclient.com.com:443#官方域名 | WARP API
+api.cloudflareclient.com:443#官方域名 | WARP API
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
