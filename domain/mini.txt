@@ -4,7 +4,7 @@ www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港机场
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 store.ubi.com:443#企业域名 | 育碧商城
-162.159.198.1:443#大佬维护 | MIYU
+saas.sin.fan:443#大佬维护 | MIYU
 skk.moe:443#大佬维护 | Sukka
 cf.877774.xyz:443#大佬维护 | QMS
 cf.090227.xyz:443#大佬维护 | CMLiu
