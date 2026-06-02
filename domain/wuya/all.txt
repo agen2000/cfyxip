@@ -1,4 +1,4 @@
-saas.sin.fan:443#乌鸦优选 | 优选网BestCF.pages.dev
+162.159.198.1:443#乌鸦优选 | 优选网BestCF.pages.dev
 yd.hhhhh.eu.org:443#乌鸦优选 | 移动 | yd.hhhhh.eu.org
 yd.1.hhhhh.eu.org:443#乌鸦优选 | 移动1 | yd.1.hhhhh.eu.org
 yd.2.hhhhh.eu.org:443#乌鸦优选 | 移动2 | yd.2.hhhhh.eu.org
@@ -42,4 +42,4 @@ qms.2.hhhhh.eu.org:443#乌鸦优选 | qms2 | qms.2.hhhhh.eu.org
 qms.3.hhhhh.eu.org:443#乌鸦优选 | qms3 | qms.3.hhhhh.eu.org
 1111111.hhhhh.eu.org:443#乌鸦优选 | 未知线路 | 1111111.hhhhh.eu.org
 090.hhhhh.eu.org:443#乌鸦优选 | 未知线路 | 090.hhhhh.eu.org
-bestcf.030101.xyz:443#乌鸦优选 | 优选网BestCF.pages.dev
+162.159.197.1:443#乌鸦优选 | 优选网BestCF.pages.dev

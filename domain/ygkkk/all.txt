@@ -1,4 +1,4 @@
-saas.sin.fan:443#甬哥优选 | 优选网BestCF.pages.dev
+162.159.198.1:443#甬哥优选 | 优选网BestCF.pages.dev
 yg1.ygkkk.dpdns.org:443#甬哥优选 | yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org:443#甬哥优选 | yg2.ygkkk.dpdns.org
 yg3.ygkkk.dpdns.org:443#甬哥优选 | yg3.ygkkk.dpdns.org
@@ -12,4 +12,4 @@ yg10.ygkkk.dpdns.org:443#甬哥优选 | yg10.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org:443#甬哥优选 | yg11.ygkkk.dpdns.org
 yg12.ygkkk.dpdns.org:443#甬哥优选 | yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#甬哥优选 | yg13.ygkkk.dpdns.org
-bestcf.030101.xyz:443#甬哥优选 | 优选网BestCF.pages.dev
+162.159.197.1:443#甬哥优选 | 优选网BestCF.pages.dev
