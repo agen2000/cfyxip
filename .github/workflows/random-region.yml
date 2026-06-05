@@ -134,17 +134,14 @@ jobs:
               with open(os.path.join(base_dir, "mix.txt"), "w", encoding="utf-8") as f:
                   f.write("\n".join(all_mix_lines) + "\n")
 
-          existing_countries = []
-          seen_countries = set()
-          for item in items:
-              c = item.get("meta", {}).get("country")
-              if c and c not in seen_countries:
-                  seen_countries.add(c)
-                  existing_countries.append(c)
+          country_list_lines = []
+          if isinstance(country_order_dict, dict):
+              for country_code, count in country_order_dict.items():
+                  country_list_lines.append(f"{country_code}|{count}")
           
-          if existing_countries:
+          if country_list_lines:
               with open(os.path.join(base_dir, "list.txt"), "w", encoding="utf-8") as f:
-                  f.write("\n".join(existing_countries) + "\n")
+                  f.write("\n".join(country_list_lines) + "\n")
 
           print("数据处理成功完成。")
           '
