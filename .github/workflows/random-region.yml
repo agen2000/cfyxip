@@ -66,7 +66,7 @@ jobs:
               print("未检测到有效的 IP 节点数据，终止提交。")
               sys.exit(1)
 
-          base_dir = "cm-random-region"
+          base_dir = "random-region"
           os.makedirs(base_dir, exist_ok=True)
 
           def select_port(ports):
@@ -142,7 +142,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add cm-random-region/
+          git add random-region/
           # 检查是否有文件落入暂存区
           if git diff --cached --quiet; then
             echo "changes_detected=false" >> $GITHUB_ENV
@@ -155,5 +155,5 @@ jobs:
       - name: 提交并推送到仓库
         if: env.changes_detected == 'true'
         run: |
-          git commit -m "cm-random-region"
+          git commit -m "random-region"
           git push
