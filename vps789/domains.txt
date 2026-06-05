@@ -12,7 +12,6 @@ hk.cf.3666888.xyz
 cf.3666888.xyz
 cnllm.com
 fk.hshwk.org
-www.mc.js.cool
 hzytjy.cn
 nexusmods.com
 cdn.2158.cc
@@ -24,6 +23,7 @@ cdns.doon.eu.org
 www.shopify.com
 openai.com
 www.jimdo.com
+store.epicgames.com
 cf.mubaiovo.top
 qocu.cf.3666888.xyz
 10.cf.3666888.xyz
@@ -58,10 +58,10 @@ laitemi.com
 bbs.alipansou.com
 gh-proxy.com
 cf.cf.3666888.xyz
-baka.fun
 play.mc.js.cool
 freeyx.cloudflare88.eu.org
 cloudflare.cfgo.cc
+www.mc.js.cool
 cdn.cf.3666888.xyz
 yg5.ygkkk.dpdns.org
 yg7.ygkkk.dpdns.org
@@ -69,7 +69,6 @@ eii.at
 www.trump.com
 www.vastnovel.com
 keji.cf.3666888.xyz
-jobsdb.com
 vip.cf.3666888.xyz
 cloudflare.rainyfall.com
 uac.cf.3666888.xyz
@@ -78,6 +77,8 @@ ct.721660.xyz
 dongbanghong.com
 test2.509666.xyz
 cfip-avg.stoeaves.us.ci
+baka.fun
+jobsdb.com
 cf1s.cf.3666888.xyz
 cfyx.qdqqd.com
 adnjv.cf.3666888.xyz
@@ -85,6 +86,7 @@ cloudflare.468123.xyz
 01-qq.com
 markmonitor.com
 cdn.31514926.xyz
+www.akasantech.com
 cf.553314.xyz
 snipaste5.speedip.eu.org
 8.cf.3666888.xyz
@@ -96,14 +98,13 @@ cmcc.cc.cd
 www.bangbenjiaju.com
 cdn.091224.xyz
 shanghai.mfa.gov.ua
-www.akasantech.com
+cdn.555586.xyz
 kniu.cc
-cfgo.timelate.com
 www.ntu.edu.sg
 cfsaas.080112.xyz
-cdn.555586.xyz
 hfqek.cf.3666888.xyz
 my.dnshe.com
+cfgo.timelate.com
 www.sloomb.com
 api.gzcrtw.com
 cfip-ct.stoeaves.us.ci
@@ -134,7 +135,6 @@ dianxin.19931101.xyz
 visa.com
 www.visa.com.tw
 www.speedtest.net
-mogas.com
 www.giannidelprete.it
 cf.92555.xyz
 www.visa.com.hk
@@ -151,9 +151,7 @@ nrt.xxxxxxxx.nyc.mn
 bestcfv4.030101.xyz
 envato.com
 kuaidianlian.com.cn
-store.epicgames.com
 yg6.ygkkk.dpdns.org
-www.mfyx.cn
 investor.apple.com
 www.xflash.vip
 cfip-cm.stoeaves.us.ci
@@ -163,12 +161,12 @@ da.mfa.gov.ua
 a.lma.de5.net
 cf.998866.top
 zmxf.qzz.io
+mming.ggff.net
 zero-trust-client.cloudflareclient.com
 redis.io
 stonexbullion.com
 cmcc.877774.xyz
 mskcc.org
-www.5h.com
 www.sofi.com
 yapuyapu.com
 stackoverflow.com
@@ -180,16 +178,16 @@ ct.877774.xyz
 www.ox.ac.uk
 www.dentoncounty.gov
 egov.uscis.gov
+www.5h.com
 youxuan.cf.090227.xyz
 cf.jzlh99.com
 challenges.cloudflare.com
-securecircle.com
+www.mfyx.cn
 op.chinwa.eu.cc
 dns.163189.xyz
 www.trumpinternationalrealty.com
 yidong.19931101.xyz
 cf.legspcpd.furry.bz
-mming.ggff.net
 cfip-cu.stoeaves.us.ci
 trump.com
 cf.0sm.com
@@ -198,3 +196,5 @@ www.epicgames.com
 qoj.ac
 cfdl.3666888.xyz
 store.ubisoft.com
+cf.affection.dpdns.org
+china.mfa.gov.ua
