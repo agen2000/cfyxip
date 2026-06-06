@@ -1,0 +1,62 @@
+name: mia
+
+on:
+  workflow_dispatch:
+
+jobs:
+  fetch_and_push:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 请求订阅并追加广告行
+        run: |
+          echo "开始请求目标链接..."
+          
+          TARGET_URL="${{ vars.TARGET_URL }}"
+          
+          if [ -z "$TARGET_URL" ]; then
+            echo "错误：未检测到TARGET_URL"
+            exit 1
+          fi
+          
+          if ! curl -sS -L --retry 1 --retry-delay 3 "$TARGET_URL" -o raw_nodes.txt; then
+            echo "错误：请求目标链接失败！"
+            exit 1
+          fi
+
+          if [ ! -s raw_nodes.txt ]; then
+            echo "错误：下载的内容为空！"
+            exit 1
+          fi
+
+          BJ_TIME=$(TZ=Asia/Shanghai date "+%m-%d %H:%M")
+          
+          mkdir -p xinyitang3
+          
+          echo "162.159.198.1:443#Mia优选 | ${BJ_TIME} | BestCF.pages.dev" > xinyitang3/ipv4.txt
+          
+          cat raw_nodes.txt >> xinyitang3/ipv4.txt
+          
+          echo "162.159.197.1:443#Mia优选 | 分享免费优选网 BestCF.pages.dev" >> xinyitang3/ipv4.txt
+          
+          echo "ipv4.txt 文件生成成功！"
+
+      - name: 提交并推送文件
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add xinyitang3/ipv4.txt
+          
+          # 检查文件是否有变化，有变化才提交
+          if git diff --cached --quiet; then
+            echo "数据未发生变化，跳过本次提交。"
+          else
+            git commit -m "mia $(TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S'))"
+            git push
+          fi
