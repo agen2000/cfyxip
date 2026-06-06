@@ -1,4 +1,4 @@
-name: tiancheng-vl-new-python
+name: tiancheng1
 
 on:
   workflow_dispatch:
@@ -41,6 +41,7 @@ jobs:
                       'desktop': True
                   }
               )
+              # vloo.cm.soso.edu.kg
               url = "https://vl.cm.soso.edu.kg/sub?host=bestcf.pages.dev&uuid=acc06942-ab63-4352-886a-c00a978862be"
               try:
                   res = scraper.get(url, timeout=10)

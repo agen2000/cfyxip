@@ -1,4 +1,4 @@
-name: tiancheng-sn-new-python
+name: tiancheng2
 
 on:
   workflow_dispatch:
@@ -41,8 +41,8 @@ jobs:
                       'desktop': True
                   }
               )
-              # https://sn1.skylee5.cloudns.ch/tset
-              url = "https://8.868001.xyz/tset"
+              # https://sni.skylee4.cloudns.ch/tset
+              url = "https://sn1.skylee5.cloudns.ch/tset"
               try:
                   res = scraper.get(url, timeout=10)
                   if res.status_code == 200:
