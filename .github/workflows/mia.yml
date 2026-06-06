@@ -19,8 +19,6 @@ jobs:
         run: |
           echo "开始请求目标链接..."
           
-          TARGET_URL="${{ vars.TARGET_URL }}"
-          
           if [ -z "$TARGET_URL" ]; then
             echo "错误：未检测到TARGET_URL"
             exit 1
