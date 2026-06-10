@@ -1,7 +1,8 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 06-11 04:42 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 06-11 05:12 | BestCF.pages.dev
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
+cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 cdn.262832.xyz:443#VPS789优选 | cdn.262832.xyz
@@ -88,7 +89,6 @@ avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
-cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 dynadot.com:443#VPS789优选 | dynadot.com
@@ -98,5 +98,5 @@ cf.998866.top:443#VPS789优选 | cf.998866.top
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
-01-cctv.com:443#VPS789优选 | 01-cctv.com
+cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
