@@ -24,7 +24,7 @@ jobs:
             exit 1
           fi
           
-          if ! curl -sS -L --retry 3 --retry-delay 3 "$XINYITANG3_URL" -o raw_nodes.txt; then
+          if ! curl -sS -L -A "Clash" --retry 3 --retry-delay 3 '$XINYITANG3_URL' -o raw_nodes.txt; then
             echo "错误：请求目标链接失败！"
             exit 1
           fi
@@ -34,6 +34,7 @@ jobs:
             exit 1
           fi
 
+          # 使用正则匹配标准的 [IP/域名:端口] 并统计行数
           NODE_COUNT=$(grep -c -E '[0-9a-zA-Z\.-]+:[0-9]+' raw_nodes.txt || true)
           
           echo "检查完毕，当前下载的文件中包含有效节点数量: $NODE_COUNT"
@@ -41,16 +42,18 @@ jobs:
           if [ "$NODE_COUNT" -lt 3 ]; then
             echo "=========================================================="
             echo "❌ 警告：检测到有效节点数量 ($NODE_COUNT) 少于 3 个！"
-            echo "这极有可能是上游接口报错、失效或触发了防火墙防爬。"
             echo "为了保护原有数据不被污染，本次工作流将拒绝写入并强行终止！"
             echo "=========================================================="
             exit 1
           fi
 
+          # 创建目标文件夹
           mkdir -p xinyitang3
           
+          # 校验通过，将下载的原始节点数据写入最终文件
           cat raw_nodes.txt > xinyitang3/ipv4.txt
           
+          # 确保文件末尾有一个干净的换行符
           if [ "$(tail -c1 xinyitang3/ipv4.txt)" != "" ]; then
             echo "" >> xinyitang3/ipv4.txt
           fi
