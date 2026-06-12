@@ -32,12 +32,12 @@ digitalocean.com:443#企业域名 | DigitalOcean
 mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
 www.broadcom.com:443#更多选择 | 博通
+asda.com:443#更多选择 | 阿斯达
 homecare.stryker.com:443#更多选择 | 史赛克
 emerson.com:443#更多选择 | 艾默生
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
 www.roche.com:443#更多选择 | 罗氏制药
 www.polestar.com:443#更多选择 | 极星汽车
-asda.com:443#更多选择 | 阿斯达
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
