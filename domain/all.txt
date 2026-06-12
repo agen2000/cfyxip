@@ -24,8 +24,8 @@ wealthpartners.jpmorgan.com:443#金融域名 | 摩根大通
 tradepro.wealthmanagement.scotiabank.com:443#金融域名 | 丰业银行
 www.sage.com:443#更多选择 | Sage
 www.speedtest.net:443#更多选择 | Ookla
-markmonitor.com:443#更多选择 | MarkMonitor
 mskcc.org:443#更多选择 | MSKCC
+markmonitor.com:443#更多选择 | MarkMonitor
 www.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com:443#更多选择 | Verizon
 investor.apple.com:443#更多选择 | Apple
@@ -34,23 +34,15 @@ affirm.com:443#更多选择 | Affirm
 www.zendesk.com:443#更多选择 | Zendesk
 anadoluefes.com:443#更多选择 | AnadoluEfes
 doordash.com:443#更多选择 | DoorDash
+www.wto.org:443#更多选择 | WTO世贸
+w3.org:443#更多选择 | W3C万维
 www.broadcom.com:443#更多选择 | 博通
-www.lego.com:443#更多选择 | 乐高
-ikea.com:443#更多选择 | 宜家
-www.razer.com:443#更多选择 | 雷蛇
-loreal.com:443#更多选择 | 欧莱雅
 homecare.stryker.com:443#更多选择 | 史赛克
 emerson.com:443#更多选择 | 艾默生
 visit.honeywell.com:443#更多选择 | 霍尼韦尔
 www.roche.com:443#更多选择 | 罗氏制药
-www.polestar.com:443#更多选择 | 极星
-www.hyundai.com:443#更多选择 | 现代
-www.kia.com:443#更多选择 | 起亚
-carrefour.com:443#更多选择 | 家乐福
+www.polestar.com:443#更多选择 | 极星汽车
 asda.com:443#更多选择 | 阿斯达
-shiseido.com:443#更多选择 | 资生堂
-www.wto.org:443#更多选择 | WTO世贸
-w3.org:443#更多选择 | W3C万维
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
@@ -78,4 +70,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.197.1:443#▲ 精选域名 | 6-10 | 分享免费优选网BestCF.pages.dev
+162.159.197.1:443#▲ 精选域名 | 6-13 | 分享免费优选网BestCF.pages.dev
