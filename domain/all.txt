@@ -2,7 +2,6 @@
 162.159.198.1:443#官方域名 | MASQUE
 162.159.197.1:443#官方域名 | ZeroTrust
 engage.cloudflareclient.com:443#官方域名 | WireGuard
-visa.com:443#企业域名 | VISA
 shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
@@ -10,6 +9,8 @@ www.nestle.com:443#企业域名 | 雀巢集团
 www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港机场
 decathlon.com:443#企业域名 | 迪卡侬
+www.visa.cn:443#企业域名 | VISA中国
+visa.com:443#企业域名 | VISA美国
 openai.com:443#企业域名 | OpenAI
 staticdelivery.nexusmods.com:443#企业域名 | NexusMods
 bluehost.com:443#企业域名 | BlueHost
@@ -22,7 +23,6 @@ markmonitor.com:443#更多选择 | MarkMonitor
 www.epicgames.com:443#更多选择 | Epicgames
 mycareer.verizon.com:443#更多选择 | Verizon
 www.wto.org:443#更多选择 | WTO世贸
-w3.org:443#更多选择 | W3C万维
 affirm.com:443#更多选择 | Affirm
 fossilchina.cn:443#企业域名 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
@@ -38,13 +38,6 @@ visit.honeywell.com:443#更多选择 | 霍尼韦尔
 www.roche.com:443#更多选择 | 罗氏制药
 www.polestar.com:443#更多选择 | 极星汽车
 asda.com:443#更多选择 | 阿斯达
-retaillink.supplier.wal-mart.com:443#更多选择 | 沃尔玛
-www.visa.cn:443#金融域名 | VISA中国
-usa.visa.com:443#金融域名 | VISA美国
-www.visa.com.hk:443#金融域名 | VISA香港
-academy.mastercard.com:443#金融域名 | 万事达卡
-tradepro.wealthmanagement.scotiabank.com:443#金融域名 | 丰业银行
-wealthpartners.jpmorgan.com:443#金融域名 | 摩根大通
 cloudflare-eth.com:443#官方域名 | Web3
 cloudflare.dev:443#官方域名 | Developers
 cloudflare.net:443#官方域名 | Business
