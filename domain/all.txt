@@ -5,7 +5,6 @@ engage.cloudflareclient.com:443#官方域名 | WireGuard
 shopify.com:443#企业域名 | Shopify
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
-www.nestle.com:443#企业域名 | 雀巢集团
 www.allianz.com:443#企业域名 | 安联集团
 hongkongairport.com:443#企业域名 | 香港机场
 decathlon.com:443#企业域名 | 迪卡侬
@@ -32,6 +31,7 @@ digitalocean.com:443#企业域名 | DigitalOcean
 mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
 www.broadcom.com:443#更多选择 | 博通
+www.nestle.com:443#更多选择 | 雀巢
 asda.com:443#更多选择 | 阿斯达
 homecare.stryker.com:443#更多选择 | 史赛克
 emerson.com:443#更多选择 | 艾默生
