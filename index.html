@@ -1053,7 +1053,7 @@
 				<div class="item-desc">说明：p=自定义端口443/2053/2083/2087/2096/8443/random；n=自定义IP数量(最大500)；c=自定义网段，CIDR格式或模糊匹配(例如c=162.159.38)，不同地区/运营商/时段，效果有差异；欢迎自测其它号段并投稿</div>
             </div>				
             <!-- <div class="group-card"> -->
-            <!-- <div class="item-header"><span class="item-title">碧海</span><span class="tag">停更</span><span class="tag">占位等他回归</span></div> -->
+            <!-- <div class="item-header"><span class="item-title">碧海</span><span class="tag">停更</span><span class="tag">占位回归</span></div> -->
             <!-- <div class="action-area"> -->
             <!-- <div class="url-box"><span class="url-text">https://bihai.cf/CFIP/</span></div> -->
             <!-- <button class="copy-btn" onclick="copy(this, 'https://bihai.cf/CFIP/')">复制链接</button> --> 
@@ -1082,7 +1082,7 @@
 					<button class="copy-btn" id="subBestCopyBtn" onclick="subBestCopyURL()">复制链接</button>
 				</div>
 			</div>
-			<script>function subBestCopyURL(){const e=document.getElementById("subBestSelect"),t=document.getElementById("subBestCopyBtn");if(e&&t&&e.value){const n=document.createElement("textarea");n.value=e.value,document.body.appendChild(n),n.select();try{if(document.execCommand("copy")){const e=t.innerText;t.innerText="成功复制",setTimeout(()=>{t.innerText=e},1500)}}catch(e){console.error(e)}finally{document.body.removeChild(n)}}}</script>		
+			<script>function subBestCopyURL(){const e=document.getElementById("subBestSelect"),t=document.getElementById("subBestCopyBtn");if(e&&t&&e.value){const n=document.createElement("textarea");n.value=e.value,document.body.appendChild(n),n.select();try{if(document.execCommand("copy")){const e=t.innerText;t.innerText="成功复制",setTimeout(()=>{t.innerText=e},1500)}}catch(e){console.error(e)}finally{document.body.removeChild(n)}}}document.addEventListener("DOMContentLoaded",(()=>{const e=document.getElementById("subBestSelect");if(e&&e.options.length>0){e.selectedIndex=Math.floor(Math.random()*e.options.length)}}));</script>	
             <div class="group-card">
                 <div class="item-header"><span class="item-title">Endpoint IP</span><span class="tag">新手勿用</span></div>
                 <div class="action-area">
@@ -1092,7 +1092,7 @@
                 </div>
             </div>
             <div class="group-card">
-                <div class="group-name">天诚<span class="tag tag-featured">更新异常</span></div>
+                <div class="group-name"><del>天诚</del><span class="tag tag-featured">更新异常</span></div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">多地区全量版</span></div>
                     <div class="action-area">
@@ -1167,7 +1167,7 @@
                 <!-- </div> -->
             </div>
             <div class="group-card">
-                <div class="group-name">天诚 2<span class="tag tag-featured">更新异常</span></div>
+                <div class="group-name"><del>天诚 2</del><span class="tag tag-featured">更新异常</span></div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">多地区全量版</span></div>
                     <div class="action-area">
@@ -1216,7 +1216,7 @@
                 <!-- </div> -->
             </div>
             <div class="group-card">
-                <div class="group-name">天诚 3<span class="tag tag-featured">更新异常</span></div>
+                <div class="group-name"><del>天诚 3</del><span class="tag tag-featured">更新异常</span></div>
                 <div class="link-row">
                     <div class="item-header"><span class="item-title">多地区全量版</span></div>
                     <div class="action-area">
@@ -1305,13 +1305,13 @@
                     <a href="https://www.byoip.top/" class="open-btn" target="_blank">打开链接</a>
                 </div>
             </div>
-            <div class="group-card">
-                <div class="item-header"><span class="item-title">乌鸦</span></div>
-                <div class="action-area">
-                    <div class="url-box"><span class="url-text">hhhhh.eu.org</span></div>
-                    <a href="https://hhhhh.eu.org/" class="open-btn" target="_blank">打开链接</a>
-                </div>
-            </div>			
+            <!-- <div class="group-card"> -->
+                <!-- <div class="item-header"><span class="item-title">乌鸦</span></div> -->
+                <!-- <div class="action-area"> -->
+                    <!-- <div class="url-box"><span class="url-text">hhhhh.eu.org</span></div> -->
+                    <!-- <a href="https://hhhhh.eu.org/" class="open-btn" target="_blank">打开链接</a> -->
+                <!-- </div> -->
+            <!-- </div>			 -->
         </section>
 
         <section id="yxgj">
@@ -3005,7 +3005,7 @@ document.addEventListener('DOMContentLoaded',()=>{const f=[{id:'edt-url-input',b
 </script>
 <!-- 混淆脚本日期 -->
 <script>
-(function(){const CARD_TXT_URL='https://autocf-workers.pages.dev/workers-date-card.txt';const MAX_RETRIES=1;if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}async function init(){try{const dateMap=await fetchCardData();if(dateMap)updateCards(dateMap);}catch(e){}}async function fetchCardData(){for(let n=0;n<=MAX_RETRIES;n++){try{const res=await fetch(CARD_TXT_URL);if(res.ok){const text=await res.text();const dateMap=new Map();text.split('\n').forEach(line=>{const idx=line.lastIndexOf('|');if(idx!==-1){dateMap.set(line.slice(0,idx).trim(),line.slice(idx+1).trim());}});return dateMap;}}catch(t){if(n===MAX_RETRIES)throw t;}}return null;}function updateCards(dateMap){const cards=document.querySelectorAll('#hxjb .group-card');cards.forEach(card=>{const urlSpan=card.querySelector('.url-box .url-text');if(!urlSpan)return;let path=urlSpan.textContent.trim().replace(/^https?:\/\//,'').replace(/^[^/]+/,'').replace(/^\//,'');const date=dateMap.get(path);if(!date)return;const header=card.querySelector('.item-header');if(!header||header.querySelector('.tag-date'))return;const dateTag=document.createElement('span');dateTag.className='tag tag-date';let cleanDate=date.replace(/-0(\d)/g,'-$1').replace(/(\s)0(\d)(?=:)/,'$1$2');dateTag.textContent=cleanDate+' 已混淆';const lastTag=header.querySelector('.tag:last-child');if(lastTag){lastTag.insertAdjacentElement('afterend',dateTag);}else{header.appendChild(dateTag);}});}})();
+(function(){const c='https://autocf-workers.pages.dev/workers-date-card.txt',m=1;if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init);}else{init();}async function init(){try{const d=await fetchCardData();if(d)updateCards(d);}catch(e){}}async function fetchCardData(){for(let n=0;n<=m;n++){try{const r=await fetch(c);if(r.ok){const t=await r.text(),d=new Map();t.split('\n').forEach(l=>{const i=l.lastIndexOf('|');if(i!==-1){d.set(l.slice(0,i).trim(),l.slice(i+1).trim());}});return d;}}catch(t){if(n===m)throw t;}}return null;}function getRelativeDateString(s){const t=new Date(s.replace(/-/g,'/')),n=new Date();if(isNaN(t.getTime()))return s;const z=new Date(t.getFullYear(),t.getMonth(),t.getDate()),x=new Date(n.getFullYear(),n.getMonth(),n.getDate()),f=Math.floor((x-z)/(1000*60*60*24)),h=s.split(' ')[1]||'',o=h.replace(/^0(\d)(?=:)/,'$1'),p=o?` ${o}`:'';if(f===0)return `今天${p}`;if(f===1)return `昨天${p}`;if(f>1)return `${f}日前${p}`;return s.replace(/-0(\d)/g,'-$1').replace(/(\s)0(\d)(?=:)/,'$1$2');}function updateCards(d){const cards=document.querySelectorAll('#hxjb .group-card');cards.forEach(card=>{const u=card.querySelector('.url-box .url-text');if(!u)return;let p=u.textContent.trim().replace(/^https?:\/\//,'').replace(/^[^/]+/,'').replace(/^\//,'');const date=d.get(p);if(!date)return;const h=card.querySelector('.item-header');if(!h||h.querySelector('.tag-date'))return;const t=document.createElement('span');t.className='tag tag-date';t.textContent=getRelativeDateString(date)+' 已混淆';const l=h.querySelector('.tag:last-child');if(l){l.insertAdjacentElement('afterend',t);}else{h.appendChild(t);}});}})();
 </script>
 <!-- 按地区随机优选 -->
 <script>
