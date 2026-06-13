@@ -14,6 +14,7 @@ www.caritas.org.hk:443#亚洲域名 | 中国香港明爱
 www.aeon.com.hk:443#亚洲域名 | 中国香港永旺
 www.aeon.info:443#亚洲域名 | 中国香港永旺
 news.cathaypacific.com:443#亚洲域名 | 香港国泰航空
+hongkongairport.com:443#企业域名 | 香港机场
 foodpanda.hk:443#亚洲域名 | 香港富胖达
 sasa.com:443#亚洲域名 | 中国香港莎莎
 www.stheadline.com:443#亚洲域名 | 香港星岛头条

@@ -5,7 +5,6 @@ engage.cloudflareclient.com:443#官方入口 | WireGuard
 store.ubi.com:443#企业域名 | 育碧商城
 serviceshub.samsclub.com:443#企业域名 | 山姆会员
 www.allianz.com:443#企业域名 | 安联集团
-www.hongkongairport.com:443#企业域名 | 香港机场
 www.transunion.hk:443#企业域名 | 香港环联
 www.decathlon.com:443#企业域名 | 迪卡侬
 www.shopify.com:443#企业域名 | Shopify
