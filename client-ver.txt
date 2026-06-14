@@ -15,6 +15,7 @@ Openwrt-Passwall/openwrt-passwall2|26.6.3-1
 PhoenixNil/XrayUI-dev|1.13
 SagerNet/sing-box|1.13.13
 XTLS/Xray-core|26.3.27
+bcseputetto/Are-u-ok|iStoreOS_24.10
 chen08209/FlClash|0.8.93
 clash-verge-rev/clash-verge-rev|2.5.1
 getsurfboard/surfboard|mobile-2.31.1
@@ -25,6 +26,7 @@ mihomo-party-org/clash-party|1.9.5
 popsiclelmlm/Hey|1.1.0
 shadowsocks/shadowsocks-android|5.3.5-nightly
 shadowsocks/shadowsocks-rust|1.24.0
+shadowsocks/shadowsocks-windows|4.4.1.0
 v2fly/v2ray-core|5.49.0
 vernesong/OpenClash|0.47.096
 vernesong/mihomo|Pre-release
