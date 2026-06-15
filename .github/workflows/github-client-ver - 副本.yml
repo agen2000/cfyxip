@@ -32,7 +32,6 @@ jobs:
           from requests.adapters import HTTPAdapter
           from urllib3.util.retry import Retry
           from bs4 import BeautifulSoup
-          from datetime import datetime, timezone, timedelta
 
           def get_session():
               session = requests.Session()
@@ -47,31 +46,15 @@ jobs:
               try:
                   response = session.get(url, headers=headers, timeout=10)
                   if response.status_code == 200:
-                      data = response.json()
-                      tag = data.get('tag_name', '')
-                      published_at = data.get('published_at', '') # UTC 时间格式: 2026-06-16T08:00:00Z
-                      
+                      tag = response.json().get('tag_name', '')
                       if tag:
                           tag_lower = tag.lower()
                           if tag_lower.startswith('v'):
-                              tag = tag[1:]
-                      
-                      # 转换 UTC 时间为北京时间 (UTC+8)
-                      bj_date_str = ""
-                      if published_at:
-                          try:
-                              # 解析 ISO 格式的 UTC 时间
-                              utc_dt = datetime.strptime(published_at, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=timezone.utc)
-                              # 转换为北京时间
-                              bj_dt = utc_dt.astimezone(timezone(timedelta(hours=8)))
-                              bj_date_str = bj_dt.strftime("%Y-%m-%d")
-                          except Exception as te:
-                              print(f"Time parse error for {owner}/{repo}: {te}")
-                              
-                      return tag, bj_date_str
+                              return tag[1:]
+                          return tag
               except Exception as e:
                   print(f"Error fetching {owner}/{repo}: {e}")
-              return None, None
+              return None
 
           def main():
               version_data = {}
@@ -81,13 +64,9 @@ jobs:
                   with open(file_path, 'r', encoding='utf-8') as f:
                       for line in f:
                           if '|' in line:
-                              parts = line.strip().split('|')
-                              # 兼容旧格式或匹配新格式
-                              if len(parts) >= 2:
-                                  version_data[parts[0]] = {
-                                      "ver": parts[1],
-                                      "date": parts[2] if len(parts) == 3 else ""
-                                  }
+                              parts = line.strip().split('|', 1)
+                              if len(parts) == 2:
+                                  version_data[parts[0]] = parts[1]
 
               if not os.path.exists('index.html'):
                   print("index.html not found")
@@ -114,22 +93,17 @@ jobs:
                       repo_key = f"{owner}/{repo}"
                       
                       print(f"Checking {repo_key}...")
-                      new_version, new_date = get_latest_release(session, owner, repo, token)
+                      new_version = get_latest_release(session, owner, repo, token)
                       
                       if new_version:
-                          version_data[repo_key] = {"ver": new_version, "date": new_date}
+                          version_data[repo_key] = new_version
                       else:
                           print(f"Keeping existing or skipping {repo_key}")
 
               if version_data:
                   with open(file_path, 'w', encoding='utf-8') as f:
                       for k in sorted(version_data.keys()):
-                          ver = version_data[k]["ver"]
-                          date = version_data[k]["date"]
-                          if date:
-                              f.write(f"{k}|{ver}|{date}\n")
-                          else:
-                              f.write(f"{k}|{ver}\n")
+                          f.write(f"{k}|{version_data[k]}\n")
                   print(f"Successfully updated {file_path}")
 
           if __name__ == "__main__":
