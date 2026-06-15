@@ -24,9 +24,11 @@ www.fossilchina.cn:443#更多选择 | Fossil
 www.zendesk.com:443#更多选择 | Zendesk
 www.doordash.com:443#更多选择 | DoorDash
 www.cookiebot.com:443#更多选择 | Cookiebot
-www.digitalocean.com:443#更多选择 | DigitalOcean
+digitalocean.com:443#更多选择 | DigitalOcean
 www.mskcc.org:443#更多选择 | MSKCC
 cdn.jsdelivr.net:443#更多选择 | jsDelivr
+ringcentral.com:443#更多选择 | RingCentral
+onetrust.com:443#更多选择 | OneTrust
 www.broadcom.com:443#更多选择 | 博通
 www.nestle.com:443#更多选择 | 雀巢
 www.asda.com:443#更多选择 | 阿斯达
@@ -70,4 +72,4 @@ cu.877774.xyz:443#按运营商 | 联通QMS
 cu.cloudflare.byoip.top:443#按运营商 | 联通Byoip
 cmcc.877774.xyz:443#按运营商 | 移动QMS
 cm.cloudflare.byoip.top:443#按运营商 | 移动Byoip
-162.159.198.1:443#优选域名 | 6-13 | 分享免费优选网BestCF.pages.dev
+162.159.198.1:443#优选域名 | 6-15 | 分享免费优选网BestCF.pages.dev
