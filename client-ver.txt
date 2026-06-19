@@ -14,7 +14,9 @@ Openwrt-Passwall/openwrt-passwall|26.6.2-1|2026-06-02
 Openwrt-Passwall/openwrt-passwall2|26.6.16-1|2026-06-16
 PhoenixNil/XrayUI-dev|1.14|2026-06-17
 SagerNet/sing-box|1.13.13|2026-06-04
+Sitoi/ClashBar|0.2.8|2026-06-17
 XTLS/Xray-core|26.3.27|2026-03-28
+Zzz-IT/GoclashZ|1.1.10|2026-06-13
 appshubcc/Bettbox|1.18.0|2026-06-08
 chen08209/FlClash|0.8.93|2026-05-29
 clash-verge-rev/clash-verge-rev|2.5.1|2026-05-20
