@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 06-23 05:39 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 06-23 06:09 | BestCF.pages.dev
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
@@ -18,11 +18,11 @@ cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
 www.shopify.com:443#VPS789优选 | www.shopify.com
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 www.swowd.com:443#VPS789优选 | www.swowd.com
-www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 www.sage.com:443#VPS789优选 | www.sage.com
 www.6i5.com:443#VPS789优选 | www.6i5.com
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 cfip-avg.stoeaves.us.ci:443#VPS789优选 | cfip-avg.stoeaves.us.ci
+3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 zeas.top:443#VPS789优选 | zeas.top
 snipaste5.speedip.eu.org:443#VPS789优选 | snipaste5.speedip.eu.org
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
@@ -42,12 +42,10 @@ bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
 www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 keji.cf.3666888.xyz:443#VPS789优选 | keji.cf.3666888.xyz
-3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 101yaoye.com:443#VPS789优选 | 101yaoye.com
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 chrono24.com:443#VPS789优选 | chrono24.com
-cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
@@ -55,11 +53,13 @@ cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 aistudio.zabc.net:443#VPS789优选 | aistudio.zabc.net
+www.ox.ac.uk:443#VPS789优选 | www.ox.ac.uk
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 www.cdzxdz.com:443#VPS789优选 | www.cdzxdz.com
 api.gzcrtw.com:443#VPS789优选 | api.gzcrtw.com
+cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 stlouiscountymo.gov:443#VPS789优选 | stlouiscountymo.gov
 dnew.cc:443#VPS789优选 | dnew.cc
