@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-25 11:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-25 12:10 | BestCF.pages.dev
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
@@ -20,9 +20,7 @@ cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 7.cf.3666888.xyz:443#VPS789优选 | 7.cf.3666888.xyz
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cf.nyanya.moe:443#VPS789优选 | cf.nyanya.moe
-cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
-3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
@@ -35,6 +33,7 @@ cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
+cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 cdn.204910.best:443#VPS789优选 | cdn.204910.best
 bbs.alipansou.com:443#VPS789优选 | bbs.alipansou.com
 dnew.cc:443#VPS789优选 | dnew.cc
@@ -49,4 +48,5 @@ uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 baka.fun:443#VPS789优选 | baka.fun
 www.xiaoshuofen.com:443#VPS789优选 | www.xiaoshuofen.com
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
+www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
