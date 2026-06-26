@@ -1,9 +1,7 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 06-27 07:10 | BestCF.pages.dev
-cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
-zeas.top:443#VPS789优选 | zeas.top
+162.159.198.1:443#VPS789优选域名 TOP50 | 06-27 07:40 | BestCF.pages.dev
+5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 cf.mubaiovo.top:443#VPS789优选 | cf.mubaiovo.top
-hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 yg5.ygkkk.dpdns.org:443#VPS789优选 | yg5.ygkkk.dpdns.org
 freeyx.cloudflare88.eu.org:443#VPS789优选 | freeyx.cloudflare88.eu.org
 cloudflare-ip.mofashi.ltd:443#VPS789优选 | cloudflare-ip.mofashi.ltd
@@ -23,7 +21,9 @@ jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 yg1.ygkkk.dpdns.org:443#VPS789优选 | yg1.ygkkk.dpdns.org
 cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
+2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
+cf-ip-node.vov.moe:443#VPS789优选 | cf-ip-node.vov.moe
 www.akasantech.com:443#VPS789优选 | www.akasantech.com
 ping.pe:443#VPS789优选 | ping.pe
 www.shopify.com:443#VPS789优选 | www.shopify.com
@@ -32,7 +32,6 @@ gh-proxy.com:443#VPS789优选 | gh-proxy.com
 www.jimdo.com:443#VPS789优选 | www.jimdo.com
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
-2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 test.509666.xyz:443#VPS789优选 | test.509666.xyz
 eii.at:443#VPS789优选 | eii.at
 cf.duun.eu.cc:443#VPS789优选 | cf.duun.eu.cc
@@ -42,6 +41,7 @@ www.xflash.vip:443#VPS789优选 | www.xflash.vip
 cfip-cm.stoeaves.us.ci:443#VPS789优选 | cfip-cm.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 dnew.cc:443#VPS789优选 | dnew.cc
+mogas.com:443#VPS789优选 | mogas.com
 cloudflare.rainyfall.com:443#VPS789优选 | cloudflare.rainyfall.com
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
