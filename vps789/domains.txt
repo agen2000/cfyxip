@@ -8,14 +8,13 @@ coke.cf.3666888.xyz
 prompt.gzcrtw.com
 cf-cname.xingpingcn.top
 kuaidianlian.com.cn
-www.leics.police.uk
 reader.sudorm.su
 saas.sin.fan
-yxip.xxxxxxxx.tk
 cf.mubaiovo.top
 cdn.ddeed.de
 cu.877774.xyz
 freeyx.cloudflare88.eu.org
+yxip.xxxxxxxx.tk
 cdn.2158.cc
 www.swowd.com
 my.dnshe.com
@@ -24,13 +23,15 @@ yg1.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 markmonitor.com
 www.5199dy.com
+www.leics.police.uk
 2.cf.3666888.xyz
 uac.cf.3666888.xyz
 eteaf.cf.3666888.xyz
-10.cf.3666888.xyz
 www.xiaoshuofen.com
 cloudflare.rainyfall.com
+10.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
+fk.hshwk.org
 staticdelivery.nexusmods.com
 bbs.alipansou.com
 gh-proxy.com
@@ -44,8 +45,8 @@ test.509666.xyz
 www.sofi.com
 run.254301.xyz
 cmcc.cc.cd
+www.vastnovel.com
 cdn.555586.xyz
-fk.hshwk.org
 play.mc.js.cool
 cf.godns.cc
 dnew.cc
@@ -56,7 +57,6 @@ cfvip.cf.3666888.xyz
 7.cf.3666888.xyz
 eii.at
 www.xflash.vip
-www.vastnovel.com
 cf.nyanya.moe
 ct.090227.xyz
 www.shopify.com
@@ -109,6 +109,7 @@ cf.itv888.cn
 www.5h.com
 a.lma.de5.net
 adnjv.cf.3666888.xyz
+api.gzcrtw.com
 www.6i5.com
 qy.cf.727672.xyz
 cfip-cu.stoeaves.us.ci
@@ -119,7 +120,6 @@ bestcfv4.030101.xyz
 cf.3666888.xyz
 cmcc.hw.090227.xyz
 cf1.v8.longsays.com
-api.gzcrtw.com
 cf.92555.xyz
 www.speedtest.net
 sg.cf.3666888.xyz
@@ -131,7 +131,7 @@ www.visa.com.sg
 tajikistan.mfa.gov.ua
 stackoverflow.com
 5.cf.3666888.xyz
-digitalocean.com
+china.mfa.gov.ua
 qualitytraining.zeiss.com
 nrt.xxxxxxxx.nyc.mn
 vps.cheng2001.top
@@ -149,7 +149,6 @@ cf.1o.ee
 athome.com
 cdn.2020111.xyz
 cnamefuckxxs.yuchen.icu
-visa.com
 cf.996616.xyz
 cf2.996616.xyz
 www.visa.cn
@@ -159,6 +158,7 @@ animal.nuaa.tech
 www.wto.org
 help.x.com
 stlouiscountymo.gov
+virtualcommtraining.verizon.com
 www.crazygames.fr
 cf.jzlh99.com
 emos.prlo.de
@@ -166,14 +166,16 @@ yg6.ygkkk.dpdns.org
 yg8.ygkkk.dpdns.org
 www.truepowerofblue.com
 kniu.cc
+ctlmt.info
 nas.chinwa.eu.cc
 a.cloudflare.182682.xyz
 cf.blogluo.eu.org
 4gxb7l7p40.cloudflare-gateway.com
+digitalocean.com
+visa.com
 www.visa.com.hk
 i.111666.best
 www.visa.com.au
-virtualcommtraining.verizon.com
 development.ihg.com
 envato.com
 hubspot.com
@@ -183,7 +185,6 @@ yd.hhhhh.eu.org
 www.npmjs.com
 networksolutions.com
 cfdl.3666888.xyz
-ctlmt.info
 china-mobile.cname.cloudflare.468123.xyz
 elron.ee
 ip.sb
@@ -195,6 +196,5 @@ debot.ai
 dx.doi.org
 www.mastervolt.com
 mvnrepository.com
+tinyurl.com
 fictiv.com
-hitcon.org
-resources.biginterview.com
